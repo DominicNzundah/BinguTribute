@@ -3,9 +3,9 @@ padding: 20px;
 margin:15px;
 background-color:lightgray;
 }
-.forImg{border-radius=15px;
+.forImg{border-radius=30px;
 position:relative;
-width:450px;
+width:auto;
 height:350px;
   text-align:center;
 }
