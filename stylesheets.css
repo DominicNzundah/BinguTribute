@@ -7,14 +7,22 @@ background-color:lightgray;
 position:relative;
 width:450px;
 height:350px;
+  text-align:center;
 }
 h1{font-size:18px;
+text-align:center;
+font-weight:bold;
 }
-h3{
+h3{  font-size:16px;
+text-align:center;
+font-weight:bold;
 }
 h4{font-size:16px;
+text-align:center;
+font-weight:bold;
 }
 .forPs{
 font-size:14px;
 border: 1px solid white;
+text-align:justify;
 }
