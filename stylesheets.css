@@ -1,4 +1,4 @@
-*{font-family:Verdana;
+.forBody{font-family:Verdana;
 padding: 20px;
 margin:15px;
 background-color:lightgray;
@@ -7,7 +7,7 @@ background-color:lightgray;
 position:relative;
 width:auto;
 height:350px;
-  text-align:center;
+text-align:center;
 }
 h1{font-size:18px;
 text-align:center;
