@@ -5,9 +5,11 @@ background-color:lightgray;
 }
 .forImg{border-radius=30px;
 position:relative;
-width:1300px;
+width:auto
 height:350px;
-text-align:center;
+padding: 300px;
+border-radius:30px;
+ border:1px solid white;
 }
 h1{font-size:18px;
 text-align:center;
